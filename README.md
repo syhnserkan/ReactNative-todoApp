@@ -4,4 +4,4 @@
 
 ## View of the Project
 
-![View](https://github.com/codepumps/find-movie-with-React.js/blob/master/src/Screenshot.png)
+![View](https://github.com/syhnserkan/ReactNative-todoApp/blob/master/images/mobile.png)
